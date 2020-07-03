@@ -1,0 +1,4 @@
++ react-scripts@3.4.1
+updated 1 package and audited 1662 packages in 41.444s
+found 4983 low severity vulnerabilities
+  run `npm audit fix` to fix them, or `npm audit` for details
